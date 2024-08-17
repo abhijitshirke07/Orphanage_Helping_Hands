@@ -54,6 +54,22 @@ The Orphanage Donation App is a mobile application designed to streamline the do
 
 ## Screenshots
 
+1. Donar UI <br><br>
+![Screenshot 2024-08-11 130518](https://github.com/user-attachments/assets/19d9b380-41c6-4a08-a07b-39f13db67ddb) <br>
+![Screenshot 2024-08-09 122653](https://github.com/user-attachments/assets/b6dbea89-82cf-459f-a5ed-864f45263505) &nbsp;&nbsp;&nbsp;
+![Screenshot 2024-08-09 122639](https://github.com/user-attachments/assets/769335a9-b11b-45e7-93df-43542c927474) <br>
+![Screenshot 2024-08-09 122359](https://github.com/user-attachments/assets/39572e47-40fa-4bab-a3dc-977636a1f5ec) &nbsp;&nbsp;&nbsp;
+![Screenshot 2024-08-11 130229](https://github.com/user-attachments/assets/acfd1f37-b2d9-4162-9ba3-3ae6bb777099) <br>
+![Screenshot 2024-08-11 130412](https://github.com/user-attachments/assets/111d07fc-f583-48a4-825b-15999b73b246) &nbsp;&nbsp;&nbsp;
+![Screenshot 2024-08-11 130317](https://github.com/user-attachments/assets/db2a6509-26eb-47d4-afac-f2828607bb6c) <br><br><br>
+
+2. Orphanage UI <br><br>
+![Screenshot 2024-08-17 192534](https://github.com/user-attachments/assets/56f3838b-578a-4557-b1b6-9221de385855)&nbsp;&nbsp;&nbsp;
+![Screenshot 2024-08-17 193414](https://github.com/user-attachments/assets/0409fc1a-f6d0-4882-b1a5-886cdecaac30)<br><br>
+![Screenshot 2024-08-17 193442](https://github.com/user-attachments/assets/990517ab-fbf4-465b-bd5b-d6ee8b17b7f8)&nbsp;&nbsp;&nbsp;
+![Screenshot 2024-08-17 201429](https://github.com/user-attachments/assets/76c14bd7-e818-4f48-b2f6-c40b4ebcf62e) <br><br><br>
+
+
 ## Project Structure
 
 lib/<br>
